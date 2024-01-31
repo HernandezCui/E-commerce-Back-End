@@ -15,7 +15,14 @@ This application is build through the back end of a e-commerce site. Which uses 
 # Usage 
 Clone this repository. Then look for this project in your device and open your Command line and use "npm run seed" to seed data to the database and test the routes. 
 
+Video Demo: 
+
+
 # Credits 
 Worked on this project with Ahmed Danawi
 
-# 
+# Questions 
+For more information or questions, please go to 
+
+# License 
+MIT License
